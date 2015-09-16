@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說婆羅門避死經
+#+DATE: 2015-08-30 19:32:37.623490
+#+PROPERTY: JUAN 0
